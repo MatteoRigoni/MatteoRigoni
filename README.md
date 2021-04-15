@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatteoRigoni
 - 👀 I’m interested in building full-stack apps 
-- 🌱 I’m currently learning NET Core, Angular, Blazor (with EF or Mongo)
+- 🌱 I’m currently learning NET Core, Angular, Blazor
 - 📫 matteo.rigoni2@gmail.com
 
 <!---
