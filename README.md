@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatteoRigoni
 - 👀 I’m interested in building full-stack apps 
-- 🌱 I’m currently working on NET Core, Angular, Blazor and cloud architecture patterns
+- 🌱 I’m currently working on NET Core, Angular, Blazor, cloud architecture patterns and AI stuff
 - 📫 matteo.rigoni2@gmail.com
 
 <!---
