@@ -3,13 +3,13 @@
 # Matteo Rigoni  
 **Full-Stack Engineer** — .NET · Angular · Azure · SQL · AI
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)]()
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)]()
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)]()
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)]()
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)]()
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)]()
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)]()
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)]()
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)]()
+[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white&style=for-the-badge)]()
 
 </div>
 
