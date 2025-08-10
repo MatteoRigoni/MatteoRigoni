@@ -6,7 +6,7 @@
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzcuNTggMiA0IDMuMzQgNCA1djE0YzAgMS42NiAzLjU4IDMgOCAzczgtMS4zNCA4LTNWNWMwLTEuNjYtMy41OC0zLTgtM3ptMCAyYzMuODcgMCA2IC45NiA2IDFzLTIuMTMgMS02IDEtNi0uOTYtNi0xIDIuMTMtMSA2LTF6bTAgNmMzLjg3IDAgNiAuOTYgNiAxcy0yLjEzIDEtNiAxLTYtLjk2LTYtMSAyLjEzLTEgNi0xem0wIDZjMy44NyAwIDYgLjk2IDYgMXMtMi4xMyAxLTYgMS02LS45Ni02LTEgMi4xMy0xIDYtMXoiLz48L3N2Zz4=&logoWidth=18" height="22" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="22" />
 
