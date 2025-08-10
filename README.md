@@ -2,14 +2,18 @@
 
 # Matteo Rigoni  
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)]()
-[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)]()
-![Azure](https://img.shields.io/badge/-Azure-?style=flat&logo=microsoftazure&logoColor=0078D4&labelColor=00000000)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)]()
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-?style=flat&logo=azuredevops&logoColor=0078D7&labelColor=00000000)
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)]()
+<!-- riga 1 -->
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+
+<!-- riga 2 -->
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
 
 </div>
 
