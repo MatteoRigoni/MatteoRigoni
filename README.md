@@ -16,7 +16,7 @@
 | Area | Focus |
 |---|---|
 | **Back-end** | API e microservizi (ASP.NET Core); Clean Architecture · SOLID; SQL; performance tuning & monitoring |
-| **Front-end** | Angular · Blazor |
+| **Front-end** | Esperienza su diversi applicativi in Angular e Blazor |
 | **Infrastruttura, DevOps** | Docker; CI/CD (Azure DevOps); Azure |
 | **AI & dati** | LLM · RAG · agent/tool use; integrazioni con LLM; addestramento modelli ML |
 
