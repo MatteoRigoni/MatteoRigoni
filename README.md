@@ -1,6 +1,7 @@
 <div align="center">
 
 # Matteo Rigoni
+<br/>
 
 <!-- riga 1 -->
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -23,11 +24,12 @@
 | **Infrastruttura, DevOps** | Docker; CI/CD (Azure DevOps); Azure |
 | **AI & dati** | LLM/RAG; integrazioni; training ML
 
+</div>
 
 **Contatti:**  
 ✉️ [matteo.rigoni2@gmail.com](mailto:matteo.rigoni2@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
 
-</div>
+
 
 <!---
 MatteoRigoni/MatteoRigoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
