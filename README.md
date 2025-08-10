@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-<br/>
-
 | Area | Focus |
 |---|---|
 | **Back-end** | API & microservizi (.NET), Clean Architecture/SOLID, SQL, performance  
@@ -28,10 +26,8 @@
 | **Infrastruttura, DevOps** | Docker; CI/CD (Azure DevOps); Azure |
 | **AI & dati** | LLM/RAG; integrazioni; training ML
 
-<div>
 **Contatti:**  
 ✉️ [matteo.rigoni2@gmail.com](mailto:matteo.rigoni2@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
-</div>
 
 </div>
 
