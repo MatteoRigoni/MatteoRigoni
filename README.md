@@ -25,14 +25,15 @@
 </div>
 
 <!-- CONTATTI -->
+<!-- CONTATTI -->
 <p align="center">
   <a href="mailto:matteo.rigoni2@gmail.com" style="text-decoration:none; display:inline-block; margin:0 14px;">
     <img alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" height="28" />
-    <br/><sub>Email</sub>
+    <br/><sub>matteo.rigoni2@gmail.com</sub>
   </a>
   <a href="https://www.linkedin.com/in/matteo-rigoni-63440b114/" style="text-decoration:none; display:inline-block; margin:0 14px;">
     <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" />
-    <br/><sub>LinkedIn</sub>
+    <br/><sub>linkedin.com/in/matteo-rigoni-63440b114</sub>
   </a>
 </p>
 
