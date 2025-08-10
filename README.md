@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
 
-</div>
+
 
 | Area | Focus |
 |---|---|
@@ -27,6 +27,7 @@
 **Contatti:**  
 ✉️ [matteo.rigoni2@gmail.com](mailto:matteo.rigoni2@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
 
+</div>
 
 <!---
 MatteoRigoni/MatteoRigoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
