@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matteo Rigoni  
-**Full-Stack Engineer** — .NET · Angular · Azure · SQL · AI
+**Full-Stack Engineer**
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)]()
