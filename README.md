@@ -14,9 +14,10 @@
 </div>
 
 ### Sintesi
-- **Full-stack:** ASP.NET Core + Angular · qualità, performance, manutenibilità  
-- **Cloud/DevOps:** Azure · Docker · CI/CD con Azure DevOps · sicurezza e monitoraggio  
-- **AI & Data:** LLM, RAG, agent/tool use · integrazioni OpenAI · principi di data science per valutazione
+- **C#/.NET (core):** API e microservizi con ASP.NET Core · **Clean Architecture**, SOLID, test automatizzati · performance tuning
+- **Operatività & affidabilità:** monitoraggio end-to-end (log · metriche · tracing), alerting, SLO · gestione rilasci e cura del prodotto nel tempo
+- **Cloud & DevOps:** Azure (App/Container Apps, SQL/Storage) · Docker · **CI/CD con Azure DevOps** · sicurezza e gestione segreti
+- **Front-end & AI:** Angular/TypeScript per UI mirate · **LLM, RAG, agent/tool use**, integrazioni OpenAI · principi di data science per valutazioni
 
 <details>
   <summary><b>Tech keywords</b></summary>
