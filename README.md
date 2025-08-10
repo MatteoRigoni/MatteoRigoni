@@ -24,8 +24,17 @@
 
 </div>
 
-**Contatti:**  
-✉️ [matteo.rigoni2@gmail.com](mailto:matteo.rigoni2@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
+<!-- CONTATTI -->
+<p align="center">
+  <a href="mailto:matteo.rigoni2@gmail.com" style="text-decoration:none; display:inline-block; margin:0 14px;">
+    <img alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" height="28" />
+    <br/><sub>Email</sub>
+  </a>
+  <a href="https://www.linkedin.com/in/matteo-rigoni-63440b114/" style="text-decoration:none; display:inline-block; margin:0 14px;">
+    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" />
+    <br/><sub>LinkedIn</sub>
+  </a>
+</p>
 
 
 
