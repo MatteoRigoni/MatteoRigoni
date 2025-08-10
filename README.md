@@ -2,6 +2,10 @@
 
 # Matteo Rigoni  
 
+<div align="center">
+
+# Matteo Rigoni
+
 <!-- riga 1 -->
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white" />
@@ -14,6 +18,8 @@
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white" />
+
+</div>
 
 </div>
 
