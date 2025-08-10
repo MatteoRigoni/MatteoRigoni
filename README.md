@@ -11,13 +11,12 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)
 
 - **Full-stack:** ASP.NET Core + Angular · qualità, performance, manutenibilità  
-- **Cloud/DevOps:** Azure · Docker · CI/CD con Azure DevOps · monitoraggio e security by default  
+- **Cloud/DevOps:** Azure · Docker · CI/CD con Azure DevOps
 - **AI & Data:** LLM, RAG, agent/tool use · integrazioni OpenAI · basi data science per valutazioni
 
-**Keywords:** `C#` `ASP.NET Core` `Angular` `TypeScript` `Azure` `Azure SQL` `SQL Server` `Docker` `Azure DevOps` `LLM` `RAG` `Agents` `Observability`
+**Keywords:** `C#` `ASP.NET Core` `Angular` `TypeScript` `Azure` `SQL Server` `Docker` `Azure DevOps` `LLM` `RAG` `Agents` `Observability`
 
-**Contatti:** matteo[dot]rigoni2[at]gmail[dot]com · LinkedIn: *(aggiungi il link)*
-
+**Contatti:** matteo.rigoni2@gmail.com · LinkedIn: [https://www.linkedin.com/in/matteo-rigoni-63440b114/]
 
 
 
