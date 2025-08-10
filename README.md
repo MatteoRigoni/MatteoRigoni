@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matteo Rigoni
-<p><sub><em>Full-stack Engineer</em></sub></p>
+<h5><sub><em>Full-stack Engineer</em></sub></h5>
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
