@@ -13,11 +13,11 @@
 
 </div>
 
-### Sintesi
-- **C#/.NET (core):** API e microservizi con ASP.NET Core · **Clean Architecture**, SOLID, test automatizzati · performance tuning
-- **Operatività & affidabilità:** monitoraggio end-to-end (log · metriche · tracing), alerting, SLO · gestione rilasci e cura del prodotto nel tempo
-- **Cloud & DevOps:** Azure (App/Container Apps, SQL/Storage) · Docker · **CI/CD con Azure DevOps** · sicurezza e gestione segreti
-- **Front-end & AI:** Angular/TypeScript per UI mirate · **LLM, RAG, agent/tool use**, integrazioni OpenAI · principi di data science per valutazioni
+### Punti di Forza
+- Back-end: sviluppo API e microservizi con ASP.NET Core; Clean Architecture/SOLID; SQL e performance tuning
+- Front-end: Angular e Blazor; TypeScript; componenti e state management
+- Operatività/DevOps: infrastruttura Azure; Docker; CI/CD con Azure DevOps
+- AI e dati: LLM, RAG, agent/tool use; integrazione con vari LLM; addestramento/valutazione modelli machine-learning
 
 <details>
   <summary><b>Tech keywords</b></summary>
