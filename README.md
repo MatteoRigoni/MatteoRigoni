@@ -14,15 +14,7 @@
 
 </div>
 
-### Sintesi
-- C#/.NET: sviluppo API e microservizi con ASP.NET Core; Clean Architecture/SOLID; test automatizzati; performance tuning  
-- Operatività/DevOps (Azure): logging · metriche · tracing; alerting/SLO; Docker; CI/CD con Azure DevOps; gestione segreti  
-- Front-end: Angular e Blazor; TypeScript; componenti e state management  
-- AI e dati: LLM, RAG, agent/tool use; integrazione con vari LLM; valutazione e monitoraggio
-
-### Di cosa mi occupo
-Progetto e mantengo servizi e API in .NET con approccio pulito e misurabile (osservabilità e SLO); seguo delivery e run-time su Azure (container, pipeline, sicurezza).  
-Quando serve UI, lavoro con Angular/Blazor. Integro funzionalità AI (multi-provider) con RAG/agent e processi di valutazione per la produzione.
+**Sintesi.** C#/.NET per API e microservizi (Clean Architecture, test, performance). In produzione: Azure, Docker, CI/CD con Azure DevOps, osservabilità e sicurezza. Front-end con Angular/Blazor. AI: LLM, RAG, agent/tool use, integrazioni OpenAI e valutazione modelli.
 
 **Contatti:**  
 [![Email](https://img.shields.io/badge/Email-matteo.rigoni2%40gmail.com-informational)](mailto:matteo.rigoni2@gmail.com)
