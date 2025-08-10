@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matteo Rigoni
-<font color="#6c757d"><strong>Software Engineer focused on full-stack, cloud, and AI solutions</strong></font>
+<font color="#6c757d"><strong>Software Engineer — back-end centric, full-stack capable, cloud and AI focused</strong></font>
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="22" />
