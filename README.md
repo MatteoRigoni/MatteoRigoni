@@ -13,7 +13,7 @@
 
 </div>
 
-### Punti di Forza
+### Di cosa mi occupo
 - Back-end: sviluppo API e microservizi con ASP.NET Core; Clean Architecture/SOLID; SQL e performance tuning
 - Front-end: Angular e Blazor; TypeScript; componenti e state management
 - Operatività/DevOps: infrastruttura Azure; Docker; CI/CD con Azure DevOps
