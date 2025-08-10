@@ -14,7 +14,13 @@
 
 </div>
 
-**Sintesi.** C#/.NET per API e microservizi (Clean Architecture, test, performance). In produzione: Azure, Docker, CI/CD con Azure DevOps, osservabilità e sicurezza. Front-end con Angular/Blazor. AI: LLM, RAG, agent/tool use, integrazioni OpenAI e valutazione modelli.
+### Sintesi
+| Area | Focus |
+|---|---|
+| **C#/.NET** | API e microservizi (ASP.NET Core); Clean Architecture · SOLID; test; performance tuning |
+| **Infrastruttura su Azure** | Docker; CI/CD (Azure DevOps); logging · metriche · tracing; best practices sicurezza |
+| **Front-end** | Angular · Blazor · TypeScript; componenti e state management |
+| **AI & dati** | LLM · RAG · agent/tool use; integrazioni OpenAI; valutazione modelli |
 
 **Contatti:**  
 [![Email](https://img.shields.io/badge/Email-matteo.rigoni2%40gmail.com-informational)](mailto:matteo.rigoni2@gmail.com)
