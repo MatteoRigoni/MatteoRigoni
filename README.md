@@ -21,8 +21,8 @@
 | **AI & dati** | LLM · RAG · agent/tool use; integrazioni con LLM; addestramento modelli ML |
 
 
-**Contatti:**  
-✉️ [matteo.rigoni2@gmail.com](mailto:matteo.rigoni2@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
+[![Email](https://img.shields.io/badge/Email-_-?style=flat-square&logo=gmail)](mailto:matteo.rigoni2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-_-?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
 
 
 
