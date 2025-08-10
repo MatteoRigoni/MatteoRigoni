@@ -21,6 +21,7 @@
 | **Infrastruttura, DevOps** | Docker; CI/CD (Azure DevOps); Azure |
 | **AI & dati** | LLM · RAG · agent/tool use; integrazioni con LLM; addestramento modelli ML |
 
+
 **Contatti:**  
 [![Email](https://img.shields.io/badge/Email-matteo.rigoni2%40gmail.com-informational)](mailto:matteo.rigoni2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matteo--rigoni-blue?logo=linkedin)](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
