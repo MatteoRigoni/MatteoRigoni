@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matteo Rigoni
-<sub><strong>Software Engineer orientato a soluzioni full-stack, cloud e AI</strong></sub>
+<font color="#6c757d"><strong>Software Engineer orientato a soluzioni full-stack, cloud e AI</strong></font>
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="22" />
