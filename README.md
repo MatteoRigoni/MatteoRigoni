@@ -5,10 +5,10 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)]()
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)]()
-[![Azure](<img alt="Azure" src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="18" />)]()
+![Azure](https://img.shields.io/badge/-Azure-?style=flat&logo=microsoftazure&logoColor=0078D4&labelColor=00000000)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)]()
-[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)]()
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-?style=flat&logo=azuredevops&logoColor=0078D7&labelColor=00000000)
 [![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)]()
 
 </div>
