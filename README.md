@@ -15,9 +15,9 @@
 
 ### Di cosa mi occupo
 - Back-end: sviluppo API e microservizi con ASP.NET Core; Clean Architecture/SOLID; SQL e performance tuning
-- Front-end: Angular e Blazor; TypeScript; componenti e state management
+- Front-end: Angular e Blazor
 - Operatività/DevOps: infrastruttura Azure; Docker; CI/CD con Azure DevOps
-- AI e dati: LLM, RAG, agent/tool use; integrazione con vari LLM; addestramento/valutazione modelli machine-learning
+- AI e dati: LLM, RAG, agent/tool use; integrazione con vari LLM; addestramento/valutazione modelli ML
 
 <details>
   <summary><b>Tech keywords</b></summary>
