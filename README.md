@@ -28,10 +28,14 @@
 | **Infrastruttura, DevOps** | Docker; CI/CD (Azure DevOps); Azure |
 | **AI & dati** | LLM/RAG; integrazioni; training ML
 
-</div>
-
+<div>
 **Contatti:**  
 ✉️ [matteo.rigoni2@gmail.com](mailto:matteo.rigoni2@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
+</div>
+
+</div>
+
+
 
 
 
