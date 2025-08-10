@@ -16,8 +16,6 @@
 
 </div>
 
-</div>
-
 | Area | Focus |
 |---|---|
 | **Back-end** | API e microservizi (ASP.NET Core); Clean Architecture · SOLID; SQL; performance tuning & monitoring |
