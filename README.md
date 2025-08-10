@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matteo Rigoni
-<h3 style="color:#aaa; font-weight:600; margin:-2px 0 12px;">Ingegnere del software orientato a soluzioni full-stack, cloud e AI</h3>
+<h3 style="color:#aaa; font-weight:600; margin:-2px 0 12px;">Software Engineer orientato a soluzioni full-stack, cloud e AI</h3>
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="22" />
@@ -18,13 +18,6 @@
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22" />
 </p>
-
-| Area | Focus |
-|---|---|
-| **Back-end** | API & microservizi (.NET), Clean Architecture/SOLID, SQL, performance |
-| **Front-end** | Esperienza su diversi applicativi in Angular e Blazor |
-| **Infrastruttura, DevOps** | Docker; CI/CD (Azure DevOps); Azure |
-| **AI & dati** | LLM/RAG; integrazioni; training ML |
 
 </div>
 
