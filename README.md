@@ -22,8 +22,7 @@
 
 
 **Contatti:**  
-[![Email](https://img.shields.io/badge/Email-matteo.rigoni2%40gmail.com-informational)](mailto:matteo.rigoni2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matteo--rigoni-blue?logo=linkedin)](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
+✉️ [matteo.rigoni2@gmail.com](mailto:matteo.rigoni2@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/matteo-rigoni-63440b114/)
 
 
 
