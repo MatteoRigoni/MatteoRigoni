@@ -14,6 +14,8 @@
 </div>
 
 ### Di cosa mi occupo
+| Area | Focus |
+|---|---|
 | **Back-end** | API e microservizi (ASP.NET Core); Clean Architecture · SOLID; SQL; performance tuning & monitoring |
 | **Front-end** | Angular · Blazor |
 | **Infrastruttura, DevOps** | Docker; CI/CD (Azure DevOps); Azure |
