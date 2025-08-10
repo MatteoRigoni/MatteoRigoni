@@ -1,14 +1,9 @@
 <div align="center">
 
-# Matteo Rigoni  
-
-<div align="center">
-
 # Matteo Rigoni
 
 <!-- riga 1 -->
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 
