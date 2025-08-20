@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matteo Rigoni
-<font color="#6c757d"><strong>Full-Stack Software Engineer focused on back end, cloud, and AI solutions</strong></font>
+<font color="#6c757d"><strong>Full-Stack Software Engineer focused on back end, cloud, AI solutions, embracing "vibe coding" in my daily routine.</strong></font>
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" height="22" />
